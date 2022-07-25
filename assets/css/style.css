@@ -472,6 +472,12 @@ html {
     padding: 18px;
 }
 
+#buy-tickets:hover {
+    color: #000;
+    background-color: #ccc;
+}
+
+
 
 
 .modal-footer {
