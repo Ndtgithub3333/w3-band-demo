@@ -213,7 +213,7 @@ html {
 #slider {
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/slider/slider_1.jpg') top center / cover no-repeat;
+    background: url('../img/slider/slider_1.jpg') top center / cover no-repeat;
     position: relative;
 }
 
@@ -249,6 +249,7 @@ html {
     font-family: "Lato", sans-serif;
     font-size: 15px;
     line-height: 1.5;
+    text-shadow: 0 0 1px black;
 }
 
 #content {}
